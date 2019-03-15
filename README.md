@@ -1,4 +1,4 @@
-# default-core-project
+# Songs ID
 
 > Nuxt.js + Vuetify.js project
 
