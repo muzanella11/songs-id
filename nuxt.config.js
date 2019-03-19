@@ -3,7 +3,7 @@ module.exports = {
   ** Server of the page
   */
   server: {
-    port: 8888
+    port: 8899
   },
   /*
   ** Headers of the page
